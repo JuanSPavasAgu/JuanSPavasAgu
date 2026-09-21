@@ -65,7 +65,7 @@ Este perfil se actualiza de manera dinámica. Mis flujos de trabajo e integracio
 ### 🤝 Conéctate Conmigo
 
 <p align="left">
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://linkedin.com/JuanSPavas" target="">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </p>
